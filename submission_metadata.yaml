@@ -8,22 +8,22 @@
 team_name: "India_Runs"  # Used in leaderboard and announcements
 
 primary_contact:
-  name: "Arnab"
-  email: "arnab@example.com"      # Used for all organizer communication
-  phone: "+91-XXXXXXXXXX"         # Used for top-50 / top-10 outreach
+  name: "Arnab Kumar dey"
+  email: "arnabkumardey9957@gmail.com"      # Used for all organizer communication
+  phone: "+91-7407431911"         # Used for top-50 / top-10 outreach
 
 team_members:
-  - name: "Arnab"
-    email: "arnab@example.com"
-    role: "ML Engineer"
+  - name: "Arnab Kumar Dey"
+    email: "arnabkumardey9957@gmail.com"
+    role: "SOLO"
 
 # ============================================================================
 # Code and reproducibility
 # ============================================================================
-github_repo: "https://github.com/arnab/India_Runs"
+github_repo: "https://github.com/arnab9957/ICDS.git"
 # Private repo OK; access will be granted to organizers at Stage 3.
 
-sandbox_link: "https://huggingface.co/spaces/arnab/redrob-ranker"
+sandbox_link: "https://huggingface.co/spaces/arnab9957/redrob-ranker"
 # Hosted space environment for small-sample verification.
 
 reproduce_command: "python rank.py --candidates ./data/candidates.jsonl --out ./submissions/submission.csv"

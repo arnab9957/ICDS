@@ -236,6 +236,36 @@ Each candidate in the top 100 receives a custom, fact-grounded, 1-2 sentence jus
 
 ---
 
+## Sandbox Web Application
+
+A visual, interactive sandbox is built inside `app.py` using Streamlit. It runs the exact same Python pipeline (L0, L1, L2, L3 filters and scoring heuristics) locally or hosted. 
+
+### How to Run Locally
+1. Install all dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Launch the Streamlit dashboard:
+   ```bash
+   streamlit run app.py
+   ```
+3. Open the local address in your web browser (usually `http://localhost:8501`). You can upload your own candidate subset (JSON/JSONL) or run the ranker on built-in sample candidates.
+
+### Deploying & Syncing to Hugging Face Spaces (Sandbox Link)
+Hugging Face Spaces supports Streamlit out of the box. To deploy and keep it in sync automatically with your GitHub repository:
+
+1. **Create a Space**:
+   * Create a new Space on [Hugging Face](https://huggingface.co/new-space).
+   * Choose **Streamlit** as the SDK and select the free **CPU Basic** hardware.
+2. **Set up GitHub Secrets**:
+   * Go to your Hugging Face Settings $\rightarrow$ [Access Tokens](https://huggingface.co/settings/tokens) and generate a token with **Write** permission.
+   * Go to your GitHub repository Settings $\rightarrow$ **Secrets and variables** $\rightarrow$ **Actions** and add a secret named `HF_TOKEN` containing your Hugging Face write token.
+3. **Automatic Synchronization**:
+   * I have added an automated GitHub Action workflow under [.github/workflows/hf_sync.yml](file:///.github/workflows/hf_sync.yml). 
+   * When you push commits to the `main` branch, GitHub Actions will automatically force-push your updates to your Hugging Face Space repository, trigger a rebuild, and host the updated app at your Space link.
+
+---
+
 ## Technology Stack
 
 The following frameworks and tools were selected:
