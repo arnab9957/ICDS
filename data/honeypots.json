@@ -1,0 +1,179 @@
+{
+  "CAND_0003430": [
+    "profile_yoe_exceeds_history_sum:yoe=13.7,history_months=11"
+  ],
+  "CAND_0003582": [
+    "expert_skills_with_zero_duration:count=3"
+  ],
+  "CAND_0005291": [
+    "role_duration_date_inconsistency:actual=33,claimed=11"
+  ],
+  "CAND_0007353": [
+    "role_duration_exceeds_profile_total:claimed=166,profile_total=118.8"
+  ],
+  "CAND_0007413": [
+    "role_duration_date_inconsistency:actual=43,claimed=16"
+  ],
+  "CAND_0008960": [
+    "role_duration_exceeds_profile_total:claimed=171,profile_total=123.6"
+  ],
+  "CAND_0010294": [
+    "role_duration_exceeds_profile_total:claimed=144,profile_total=96.0"
+  ],
+  "CAND_0016000": [
+    "expert_skills_with_zero_duration:count=5"
+  ],
+  "CAND_0018515": [
+    "role_duration_exceeds_profile_total:claimed=150,profile_total=102.0"
+  ],
+  "CAND_0024752": [
+    "role_duration_date_inconsistency:actual=48,claimed=8"
+  ],
+  "CAND_0025579": [
+    "role_duration_date_inconsistency:actual=26,claimed=12"
+  ],
+  "CAND_0033131": [
+    "role_duration_date_inconsistency:actual=33,claimed=16"
+  ],
+  "CAND_0033817": [
+    "expert_skills_with_zero_duration:count=4"
+  ],
+  "CAND_0033972": [
+    "expert_skills_with_zero_duration:count=3"
+  ],
+  "CAND_0035104": [
+    "role_duration_exceeds_profile_total:claimed=114,profile_total=66.0"
+  ],
+  "CAND_0036299": [
+    "role_duration_date_inconsistency:actual=44,claimed=8"
+  ],
+  "CAND_0036839": [
+    "expert_skills_with_zero_duration:count=3"
+  ],
+  "CAND_0037000": [
+    "role_duration_exceeds_profile_total:claimed=48,profile_total=32.4"
+  ],
+  "CAND_0037539": [
+    "role_duration_exceeds_profile_total:claimed=106,profile_total=58.8"
+  ],
+  "CAND_0038431": [
+    "role_duration_date_inconsistency:actual=44,claimed=16"
+  ],
+  "CAND_0040075": [
+    "role_duration_exceeds_profile_total:claimed=228,profile_total=180.0"
+  ],
+  "CAND_0040853": [
+    "role_duration_exceeds_profile_total:claimed=61,profile_total=13.2"
+  ],
+  "CAND_0042245": [
+    "expert_skills_with_zero_duration:count=3"
+  ],
+  "CAND_0042453": [
+    "role_duration_exceeds_profile_total:claimed=98,profile_total=50.4"
+  ],
+  "CAND_0043721": [
+    "role_duration_exceeds_profile_total:claimed=102,profile_total=54.0"
+  ],
+  "CAND_0046649": [
+    "expert_skills_with_zero_duration:count=5"
+  ],
+  "CAND_0046689": [
+    "expert_skills_with_zero_duration:count=4"
+  ],
+  "CAND_0048740": [
+    "expert_skills_with_zero_duration:count=3"
+  ],
+  "CAND_0052478": [
+    "profile_yoe_exceeds_history_sum:yoe=12.4,history_months=16"
+  ],
+  "CAND_0053734": [
+    "role_duration_exceeds_profile_total:claimed=151,profile_total=103.2"
+  ],
+  "CAND_0055685": [
+    "role_duration_exceeds_profile_total:claimed=64,profile_total=16.8"
+  ],
+  "CAND_0055792": [
+    "expert_skills_with_zero_duration:count=3"
+  ],
+  "CAND_0056983": [
+    "expert_skills_with_zero_duration:count=5"
+  ],
+  "CAND_0057711": [
+    "role_duration_exceeds_profile_total:claimed=140,profile_total=92.4"
+  ],
+  "CAND_0060642": [
+    "expert_skills_with_zero_duration:count=5"
+  ],
+  "CAND_0061722": [
+    "expert_skills_with_zero_duration:count=5"
+  ],
+  "CAND_0063888": [
+    "expert_skills_with_zero_duration:count=5"
+  ],
+  "CAND_0064077": [
+    "role_duration_exceeds_profile_total:claimed=169,profile_total=121.2"
+  ],
+  "CAND_0065096": [
+    "expert_skills_with_zero_duration:count=4"
+  ],
+  "CAND_0065710": [
+    "role_duration_exceeds_profile_total:claimed=100,profile_total=52.8"
+  ],
+  "CAND_0065787": [
+    "role_duration_date_inconsistency:actual=32,claimed=14"
+  ],
+  "CAND_0066405": [
+    "role_duration_date_inconsistency:actual=31,claimed=13"
+  ],
+  "CAND_0070189": [
+    "role_duration_exceeds_profile_total:claimed=130,profile_total=82.8"
+  ],
+  "CAND_0070429": [
+    "expert_skills_with_zero_duration:count=5"
+  ],
+  "CAND_0072379": [
+    "expert_skills_with_zero_duration:count=4"
+  ],
+  "CAND_0073853": [
+    "expert_skills_with_zero_duration:count=5"
+  ],
+  "CAND_0074119": [
+    "role_duration_date_inconsistency:actual=25,claimed=13"
+  ],
+  "CAND_0077239": [
+    "role_duration_exceeds_profile_total:claimed=139,profile_total=91.2"
+  ],
+  "CAND_0077250": [
+    "role_duration_date_inconsistency:actual=32,claimed=18"
+  ],
+  "CAND_0084182": [
+    "role_duration_exceeds_profile_total:claimed=200,profile_total=152.4"
+  ],
+  "CAND_0086808": [
+    "profile_yoe_exceeds_history_sum:yoe=11.4,history_months=15"
+  ],
+  "CAND_0090900": [
+    "role_duration_date_inconsistency:actual=38,claimed=9"
+  ],
+  "CAND_0091068": [
+    "role_duration_date_inconsistency:actual=27,claimed=12"
+  ],
+  "CAND_0093364": [
+    "role_duration_exceeds_profile_total:claimed=142,profile_total=94.8"
+  ],
+  "CAND_0093547": [
+    "role_duration_exceeds_profile_total:claimed=43,profile_total=34.8"
+  ],
+  "CAND_0095140": [
+    "expert_skills_with_zero_duration:count=3"
+  ],
+  "CAND_0095317": [
+    "expert_skills_with_zero_duration:count=3"
+  ],
+  "CAND_0095480": [
+    "expert_skills_with_zero_duration:count=4"
+  ],
+  "CAND_0096150": [
+    "role_duration_date_inconsistency:actual=25,claimed=10"
+  ]
+}

@@ -1,0 +1,487 @@
+[
+  {
+    "candidate_id": "CAND_0003430",
+    "reasons": [
+      "yoe_mismatch_low_history:yoe=13.7,hist=0.92"
+    ],
+    "yoe": 13.7,
+    "history_years": 0.9166666666666666,
+    "skills_count": 6,
+    "zero_dur_skills": []
+  },
+  {
+    "candidate_id": "CAND_0003582",
+    "reasons": [
+      "skills_zero_dur:3"
+    ],
+    "yoe": 8.2,
+    "history_years": 8.166666666666666,
+    "skills_count": 8,
+    "zero_dur_skills": [
+      "MLflow",
+      "Photoshop",
+      "Content Writing"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0005291",
+    "reasons": [
+      "yoe_mismatch_low_history:yoe=12.8,hist=0.92"
+    ],
+    "yoe": 12.8,
+    "history_years": 0.9166666666666666,
+    "skills_count": 7,
+    "zero_dur_skills": []
+  },
+  {
+    "candidate_id": "CAND_0007413",
+    "reasons": [
+      "yoe_mismatch_low_history:yoe=13.3,hist=1.33"
+    ],
+    "yoe": 13.3,
+    "history_years": 1.3333333333333333,
+    "skills_count": 6,
+    "zero_dur_skills": []
+  },
+  {
+    "candidate_id": "CAND_0016000",
+    "reasons": [
+      "skills_zero_dur:5"
+    ],
+    "yoe": 2.0,
+    "history_years": 2.0,
+    "skills_count": 10,
+    "zero_dur_skills": [
+      "TypeScript",
+      "Go",
+      "Docker",
+      "Hadoop",
+      "Photoshop"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0024752",
+    "reasons": [
+      "yoe_mismatch_low_history:yoe=14.9,hist=0.67"
+    ],
+    "yoe": 14.9,
+    "history_years": 0.6666666666666666,
+    "skills_count": 7,
+    "zero_dur_skills": []
+  },
+  {
+    "candidate_id": "CAND_0025579",
+    "reasons": [
+      "yoe_mismatch_low_history:yoe=12.9,hist=1.00"
+    ],
+    "yoe": 12.9,
+    "history_years": 1.0,
+    "skills_count": 6,
+    "zero_dur_skills": []
+  },
+  {
+    "candidate_id": "CAND_0033131",
+    "reasons": [
+      "yoe_mismatch_low_history:yoe=12.7,hist=1.33"
+    ],
+    "yoe": 12.7,
+    "history_years": 1.3333333333333333,
+    "skills_count": 10,
+    "zero_dur_skills": []
+  },
+  {
+    "candidate_id": "CAND_0033817",
+    "reasons": [
+      "skills_zero_dur:4"
+    ],
+    "yoe": 13.3,
+    "history_years": 13.083333333333334,
+    "skills_count": 8,
+    "zero_dur_skills": [
+      "JavaScript",
+      "BigQuery",
+      "Six Sigma",
+      "gRPC"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0033972",
+    "reasons": [
+      "skills_zero_dur:3"
+    ],
+    "yoe": 6.0,
+    "history_years": 5.916666666666667,
+    "skills_count": 7,
+    "zero_dur_skills": [
+      "Airflow",
+      "OpenCV",
+      "Figma"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0036299",
+    "reasons": [
+      "yoe_mismatch_low_history:yoe=12.2,hist=0.67"
+    ],
+    "yoe": 12.2,
+    "history_years": 0.6666666666666666,
+    "skills_count": 12,
+    "zero_dur_skills": []
+  },
+  {
+    "candidate_id": "CAND_0036839",
+    "reasons": [
+      "skills_zero_dur:3"
+    ],
+    "yoe": 8.1,
+    "history_years": 8.0,
+    "skills_count": 6,
+    "zero_dur_skills": [
+      "SAP",
+      "GCP",
+      "Rust"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0038431",
+    "reasons": [
+      "yoe_mismatch_low_history:yoe=15.0,hist=1.33"
+    ],
+    "yoe": 15.0,
+    "history_years": 1.3333333333333333,
+    "skills_count": 7,
+    "zero_dur_skills": []
+  },
+  {
+    "candidate_id": "CAND_0042245",
+    "reasons": [
+      "skills_zero_dur:3"
+    ],
+    "yoe": 7.9,
+    "history_years": 7.75,
+    "skills_count": 6,
+    "zero_dur_skills": [
+      "Databricks",
+      "BentoML",
+      "Vue.js"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0046649",
+    "reasons": [
+      "skills_zero_dur:5"
+    ],
+    "yoe": 3.8,
+    "history_years": 3.75,
+    "skills_count": 7,
+    "zero_dur_skills": [
+      "SAP",
+      "Node.js",
+      "gRPC",
+      "Flask",
+      "Hadoop"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0046689",
+    "reasons": [
+      "skills_zero_dur:4"
+    ],
+    "yoe": 2.3,
+    "history_years": 2.1666666666666665,
+    "skills_count": 6,
+    "zero_dur_skills": [
+      "Node.js",
+      "SQL",
+      "gRPC",
+      "Spark"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0048740",
+    "reasons": [
+      "skills_zero_dur:3"
+    ],
+    "yoe": 9.9,
+    "history_years": 9.75,
+    "skills_count": 9,
+    "zero_dur_skills": [
+      "gRPC",
+      "Angular",
+      "Content Writing"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0052478",
+    "reasons": [
+      "yoe_mismatch_low_history:yoe=12.4,hist=1.33"
+    ],
+    "yoe": 12.4,
+    "history_years": 1.3333333333333333,
+    "skills_count": 8,
+    "zero_dur_skills": []
+  },
+  {
+    "candidate_id": "CAND_0055792",
+    "reasons": [
+      "skills_zero_dur:3"
+    ],
+    "yoe": 9.8,
+    "history_years": 9.75,
+    "skills_count": 13,
+    "zero_dur_skills": [
+      "Scrum",
+      "TTS",
+      "LoRA"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0056983",
+    "reasons": [
+      "skills_zero_dur:5"
+    ],
+    "yoe": 12.3,
+    "history_years": 12.0,
+    "skills_count": 5,
+    "zero_dur_skills": [
+      "Rust",
+      "Next.js",
+      "Redis",
+      "Salesforce CRM",
+      "MongoDB"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0060642",
+    "reasons": [
+      "skills_zero_dur:5"
+    ],
+    "yoe": 3.0,
+    "history_years": 3.0,
+    "skills_count": 7,
+    "zero_dur_skills": [
+      "Milvus",
+      "Agile",
+      "Azure",
+      "Diffusion Models",
+      "MongoDB"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0061722",
+    "reasons": [
+      "skills_zero_dur:5"
+    ],
+    "yoe": 6.8,
+    "history_years": 6.75,
+    "skills_count": 12,
+    "zero_dur_skills": [
+      "Terraform",
+      "GANs",
+      "Milvus",
+      "MongoDB",
+      "Speech Recognition"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0063888",
+    "reasons": [
+      "skills_zero_dur:5"
+    ],
+    "yoe": 2.4,
+    "history_years": 2.3333333333333335,
+    "skills_count": 13,
+    "zero_dur_skills": [
+      "Project Management",
+      "Accounting",
+      "MLOps",
+      "React",
+      "Webpack"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0065096",
+    "reasons": [
+      "skills_zero_dur:4"
+    ],
+    "yoe": 6.7,
+    "history_years": 6.666666666666667,
+    "skills_count": 10,
+    "zero_dur_skills": [
+      "ETL",
+      "Tally",
+      "Flask",
+      "Rust"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0065787",
+    "reasons": [
+      "yoe_mismatch_low_history:yoe=10.9,hist=1.17"
+    ],
+    "yoe": 10.9,
+    "history_years": 1.1666666666666667,
+    "skills_count": 13,
+    "zero_dur_skills": []
+  },
+  {
+    "candidate_id": "CAND_0066405",
+    "reasons": [
+      "yoe_mismatch_low_history:yoe=12.3,hist=1.08"
+    ],
+    "yoe": 12.3,
+    "history_years": 1.0833333333333333,
+    "skills_count": 13,
+    "zero_dur_skills": []
+  },
+  {
+    "candidate_id": "CAND_0070429",
+    "reasons": [
+      "skills_zero_dur:5"
+    ],
+    "yoe": 8.1,
+    "history_years": 8.083333333333334,
+    "skills_count": 14,
+    "zero_dur_skills": [
+      "MLOps",
+      "Figma",
+      "Accounting",
+      "YOLO",
+      "Java"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0072379",
+    "reasons": [
+      "skills_zero_dur:4"
+    ],
+    "yoe": 3.8,
+    "history_years": 3.6666666666666665,
+    "skills_count": 8,
+    "zero_dur_skills": [
+      "Azure",
+      "Redux",
+      "Illustrator",
+      "Spark"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0073853",
+    "reasons": [
+      "skills_zero_dur:5"
+    ],
+    "yoe": 8.0,
+    "history_years": 7.833333333333333,
+    "skills_count": 10,
+    "zero_dur_skills": [
+      "CI/CD",
+      "Marketing",
+      "GCP",
+      "Excel",
+      "AWS"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0074119",
+    "reasons": [
+      "yoe_mismatch_low_history:yoe=11.4,hist=1.08"
+    ],
+    "yoe": 11.4,
+    "history_years": 1.0833333333333333,
+    "skills_count": 6,
+    "zero_dur_skills": []
+  },
+  {
+    "candidate_id": "CAND_0077250",
+    "reasons": [
+      "yoe_mismatch_low_history:yoe=13.1,hist=1.50"
+    ],
+    "yoe": 13.1,
+    "history_years": 1.5,
+    "skills_count": 9,
+    "zero_dur_skills": []
+  },
+  {
+    "candidate_id": "CAND_0086808",
+    "reasons": [
+      "yoe_mismatch_low_history:yoe=11.4,hist=1.25"
+    ],
+    "yoe": 11.4,
+    "history_years": 1.25,
+    "skills_count": 8,
+    "zero_dur_skills": []
+  },
+  {
+    "candidate_id": "CAND_0090900",
+    "reasons": [
+      "yoe_mismatch_low_history:yoe=11.7,hist=0.75"
+    ],
+    "yoe": 11.7,
+    "history_years": 0.75,
+    "skills_count": 15,
+    "zero_dur_skills": []
+  },
+  {
+    "candidate_id": "CAND_0091068",
+    "reasons": [
+      "yoe_mismatch_low_history:yoe=12.7,hist=1.00"
+    ],
+    "yoe": 12.7,
+    "history_years": 1.0,
+    "skills_count": 8,
+    "zero_dur_skills": []
+  },
+  {
+    "candidate_id": "CAND_0095140",
+    "reasons": [
+      "skills_zero_dur:3"
+    ],
+    "yoe": 5.0,
+    "history_years": 4.833333333333333,
+    "skills_count": 12,
+    "zero_dur_skills": [
+      "Kafka",
+      "QLoRA",
+      "CNN"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0095317",
+    "reasons": [
+      "skills_zero_dur:3"
+    ],
+    "yoe": 7.0,
+    "history_years": 6.916666666666667,
+    "skills_count": 8,
+    "zero_dur_skills": [
+      "Webpack",
+      "Figma",
+      "dbt"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0095480",
+    "reasons": [
+      "skills_zero_dur:4"
+    ],
+    "yoe": 2.3,
+    "history_years": 2.25,
+    "skills_count": 10,
+    "zero_dur_skills": [
+      "Agile",
+      "React",
+      "Snowflake",
+      "Content Writing"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0096150",
+    "reasons": [
+      "yoe_mismatch_low_history:yoe=14.7,hist=0.83"
+    ],
+    "yoe": 14.7,
+    "history_years": 0.8333333333333334,
+    "skills_count": 7,
+    "zero_dur_skills": []
+  }
+]
